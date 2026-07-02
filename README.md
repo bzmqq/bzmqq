@@ -38,10 +38,9 @@ Welcome to my GitHub profile. I am passionate about Software Engineering, Data S
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bzmqq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzmqq&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=bzmqq&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=bzmqq&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
-
 ---
 
 ### 📫 How to reach me
