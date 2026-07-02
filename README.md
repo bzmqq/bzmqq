@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm a Computer Science Student!
 
-Welcome to my GitHub profile. I am passionate about Software Engineering, Data Science, and Artificial Intelligence[cite: 1]. I enjoy solving complex problems, building secure applications, and learning new technologies every day.
+Welcome to my GitHub profile. I am passionate about Software Engineering, Data Science, and Artificial Intelligence. I enjoy solving complex problems, building secure applications, and learning new technologies every day.
 
 ---
 
