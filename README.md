@@ -45,5 +45,4 @@ Welcome to my GitHub profile. I am passionate about Software Engineering, Data S
 ---
 
 ### 📫 How to reach me
-* 🌐 Check out my personal website: **mayles.fr**
-* 💼 Connect with me on [LinkedIn](http://linkedin.com/in/mayles-oukacha-745004274/)[cite: 1]
+-discord: bzmq
